@@ -20,7 +20,7 @@
  git clone <repo_url>
 -->Copies a remote repository to your local machine.
 
-3. Git Staging & Committing
+# Git Staging & Committing
 These commands help in tracking changes in the project.
 Used when adding changes to the repository before committing them.
 
@@ -36,7 +36,7 @@ Used when adding changes to the repository before committing them.
  git commit --amend
 -->Modifies the last commit message or adds missed changes.
 
-4. Git Branching & Merging
+# Git Branching & Merging
 These commands help in working on different features separately.
 Used when developing new features, fixing bugs, or managing multiple contributors.
 
@@ -61,7 +61,7 @@ Used when developing new features, fixing bugs, or managing multiple contributor
  git branch -d <branch_name>
 -->Deletes a branch after merging.
 
-5. Git Remote Repository Management
+# Git Remote Repository Management
 These commands help in working with remote repositories like GitHub, GitLab, etc.
 Used when pushing or pulling code from a remote repository.
 
@@ -80,7 +80,7 @@ Used when pushing or pulling code from a remote repository.
  git remote -v
 -->Lists remote repositories linked to the project.
 
-6. Git Log & History Commands
+# Git Log & History Commands
 These commands help in checking previous commits and changes.
 Used when reviewing commit history or debugging issues.
 
@@ -99,7 +99,7 @@ Used when reviewing commit history or debugging issues.
  git blame <file>
 -->Shows who last modified each line of a file.
 
-7. Git Undo & Reset Commands
+# Git Undo & Reset Commands
 These commands help in reverting changes.
 Used when fixing mistakes or undoing unwanted changes.
 
@@ -115,7 +115,7 @@ Used when fixing mistakes or undoing unwanted changes.
  git revert <commit_hash>
 -->Creates a new commit that undoes a previous commit.
 
-8. Git Stash Commands
+# Git Stash Commands
 These commands help in saving temporary work.
 Used when switching tasks but don’t want to commit yet.
 
@@ -131,7 +131,7 @@ Used when switching tasks but don’t want to commit yet.
  git stash drop
 -->Deletes a specific stash.
 
-9. Git Tagging Commands
+# Git Tagging Commands
 These commands help in marking specific points in history.
 Used when releasing versions of software.
 
