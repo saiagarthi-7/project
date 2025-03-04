@@ -1,6 +1,4 @@
-Git Configuration Commands
-These commands help in setting up Git preferences.
-Used when initializing Git for the first time or updating settings.
+# Git Configuration Commands
 
  git config --global user.name "Your Name"
  -->Sets the username for Git commits.
@@ -14,9 +12,7 @@ Used when initializing Git for the first time or updating settings.
  git config --list
  -->Displays all configured Git settings.
 
-2. Git Repository Initialization & Setup
-These commands help in creating and cloning repositories.
-Used when starting a new project or working on an existing one.
+# Git Repository Initialization & Setup
 
  git init
 -->Initializes a new Git repository in a project directory.
