@@ -1,4 +1,4 @@
-1. Git Configuration Commands
+Git Configuration Commands
 These commands help in setting up Git preferences.
 Used when initializing Git for the first time or updating settings.
 
