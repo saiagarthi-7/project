@@ -21,7 +21,7 @@
 -->Copies a remote repository to your local machine.
 
 # Git Staging & Committing
-These commands help in tracking changes in the project.
+### These commands help in tracking changes in the project.
 Used when adding changes to the repository before committing them.
 
  git status
