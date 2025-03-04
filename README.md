@@ -1,16 +1,16 @@
 # Git Configuration Commands
 
  git config --global user.name "Your Name"
- -->Sets the username for Git commits.
+ > Sets the username for Git commits.
 
  git config --global user.email "your_email@example.com"
- -->Sets the email for Git commits.
+ > Sets the email for Git commits.
 
  git config --global core.editor "code --wait"
- -->Sets the default text editor for Git.
+ > Sets the default text editor for Git.
 
  git config --list
- -->Displays all configured Git settings.
+ > Displays all configured Git settings.
 
 # Git Repository Initialization & Setup
 
